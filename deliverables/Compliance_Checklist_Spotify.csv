@@ -1,0 +1,15 @@
+﻿Compliance Area;Requirement Description;Compliance Status (Yes/No);Notes/Action Plan
+GDPR - Data Processing Principles;Ensure data is processed lawfully, fairly, and transparently.;;
+GDPR - User Rights;Users must be able to access, modify, or delete their data upon request.;;
+GDPR - Consent Management;Obtain explicit, informed consent before processing personal data.;;
+GDPR - Data Breach Notification;Notify supervisory authority of data breaches within 72 hours.;;
+GDPR - Data Protection Officer;Appoint a Data Protection Officer for monitoring compliance.;;
+CCPA - Data Sale Opt-out;Provide a clear opt-out mechanism for the sale of personal data.;;
+CCPA - User Access and Deletion Requests;Allow users to request access to or deletion of their data.;;
+CCPA - Non-discrimination for Exercising Rights;Ensure no discrimination against users for exercising their CCPA rights.;;
+PCI-DSS - Secure Network and Systems;Ensure a secure network infrastructure and firewall protection.;;
+PCI-DSS - Protect Cardholder Data;Protect stored cardholder data using encryption and secure storage.;;
+PCI-DSS - Maintain Vulnerability Management Program;Maintain systems for protection against malware and vulnerabilities.;;
+PCI-DSS - Implement Strong Access Control Measures;Limit access to cardholder data to authorized personnel only.;;
+PCI-DSS - Regularly Monitor and Test Networks;Implement systems to regularly test security measures and procedures.;;
+PCI-DSS - Information Security Policy;Maintain an updated information security policy for all personnel.;;
